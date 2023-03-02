@@ -1,0 +1,29 @@
+package kr.co.softcampus.main;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import kr.co.softcampus.beans.TestBean;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("kr/co/softcampus/config/beans.xml");
+		
+		
+		
+		
+		TestBean t1 = new TestBean();
+		t1.printData();
+		
+		System.out.println("----------------------------------");
+		
+		
+		TestBean obj1 = ctx.getBean("obj1", TestBean.class);
+		obj1.printData();
+		
+		
+		ctx.close();
+
+	}
+
+}

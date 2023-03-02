@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	                    http://www.springframework.org/schema/beans/spring-beans.xsd
+	                    http://www.springframework.org/schema/context
+	                    http://www.springframework.org/schema/context/spring-context.xsd
+	                    http://www.springframework.org/schema/aop
+	                    http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+
+		<bean id='obj1' class='kr.co.softcampus.beans.TestBean' lazy-init='true' />
+		
+		<bean id='obj2' class='kr.co.softcampus.beans.TestBean' lazy-init='true'>
+			<constructor-arg value='100'  type='int'/>
+		</bean>
+		
+		<bean id='obj3' class='kr.co.softcampus.beans.TestBean' lazy-init='true'>
+			<constructor-arg value='11.11'  type='double'/>
+		</bean>
+		
+		<bean id='obj4' class='kr.co.softcampus.beans.TestBean' lazy-init='true' >
+			<constructor-arg value='string' />
+		</bean>
+		
+		<bean id='obj5' class='kr.co.softcampus.beans.TestBean' lazy-init='true'>
+			<constructor-arg value='10' type='int'/>
+			<constructor-arg value='10.10' type='double'/>
+			<constructor-arg value='Hi' type='java.lang.String'/>
+		</bean>
+		
+		<bean id='obj6' class='kr.co.softcampus.beans.TestBean' lazy-init='true'>
+			<constructor-arg value='hi' type='java.lang.String'/>
+			<constructor-arg value='10.10' type='double'/>
+			<constructor-arg value='10' type='int'/>
+		</bean>
+		
+		<bean id='obj7' class='kr.co.softcampus.beans.TestBean' lazy-init='true'>
+			<constructor-arg value='44.44' type='double' index='1'/>
+			<constructor-arg value='10' type='int' index='0'/>
+			<constructor-arg value='hi' type='java.lang.String' index='2'/>
+		</bean>
+</beans> 

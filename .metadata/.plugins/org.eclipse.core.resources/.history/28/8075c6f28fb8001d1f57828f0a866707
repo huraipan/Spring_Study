@@ -1,0 +1,9 @@
+package kr.co.softcampus.processor;
+
+import org.springframework.beans.factory.config.BeanPostProcessor;
+
+public class TestBeanPostProcessor implements BeanPostProcessor{
+	
+	
+
+}
