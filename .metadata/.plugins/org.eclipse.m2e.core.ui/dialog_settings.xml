@@ -2,8 +2,6 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="C:\javae_workspace\BeanPostProcessor"/>
-			<item value="C:\javae_workspace\IoC"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -50,15 +48,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="AutoWire"/>
-			<item value="CollectionDI"/>
-			<item value="SetterDI"/>
-			<item value="ConstructorDI"/>
-			<item value="BeanPostProcessor"/>
-			<item value="BeanLifeCycle"/>
-			<item value="BeanCreate"/>
-			<item value="IoC"/>
-			<item value="SpringBasic"/>
+			<item value="JavaBeanConfiguration"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
