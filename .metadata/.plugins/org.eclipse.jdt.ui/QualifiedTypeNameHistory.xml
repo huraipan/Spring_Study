@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="kr.co.softcampus.beans.TestBean4"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="kr.co.softcampus.config.BeanConfigClass"/>
     <fullyQualifiedTypeName name="kr.co.softcampus.beans.TestBean1"/>
     <fullyQualifiedTypeName name="kr.co.softcampus.beans.TestBean2"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowire"/>
     <fullyQualifiedTypeName name="kr.co.softcampus.beans.TestBean3"/>
-    <fullyQualifiedTypeName name="kr.co.softcampus.beans.TestBean4"/>
 </qualifiedTypeNameHistroy>
