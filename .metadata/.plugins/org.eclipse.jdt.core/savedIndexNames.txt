@@ -1,28 +1,19 @@
 INDEX VERSION 1.131+C:\javae_workspace\.metadata\.plugins\org.eclipse.jdt.core
 4123298238.index
-4091897699.index
-4083828217.index
 1865797976.index
 272465848.index
 2558998704.index
 2480176495.index
 1394286075.index
-2023453907.index
-3833521296.index
-3413725848.index
-137577804.index
+3778599675.index
 3264253582.index
 522830987.index
 3544481523.index
-1484364176.index
-106494371.index
 3181815471.index
-3001710785.index
-1830334324.index
 1231374035.index
-900467377.index
 741470281.index
 497162892.index
+4239719125.index
 523992698.index
 1839479274.index
 4024174120.index
@@ -30,4 +21,3 @@ INDEX VERSION 1.131+C:\javae_workspace\.metadata\.plugins\org.eclipse.jdt.core
 1785381985.index
 1810382474.index
 3529817611.index
-1475204273.index

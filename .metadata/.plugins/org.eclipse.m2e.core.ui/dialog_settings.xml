@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\javae_workspace\SpringJDBC\src\main\java\kr\co\softcampus\main\MainClass.java"/>
 			<item value="C:\javae_workspace\AutoWire\src\main\java\kr\co\softcampus\config\beans.xml"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -49,6 +50,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MyBatis"/>
+			<item value="SpringJDBC"/>
 			<item value="AOPJava"/>
 			<item value="ExecutionDirective"/>
 			<item value="AOPXML"/>
