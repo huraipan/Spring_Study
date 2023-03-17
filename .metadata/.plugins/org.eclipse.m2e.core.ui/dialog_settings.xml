@@ -81,6 +81,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="FormElement1"/>
 			<item value="FormCustomTag"/>
 			<item value="CommandObject"/>
 			<item value="ViewResolver"/>
@@ -95,6 +96,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="FormElement1"/>
 			<item value="FormCustomTag"/>
 			<item value="CommandObject"/>
 			<item value="ViewResolver"/>
