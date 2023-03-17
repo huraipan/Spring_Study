@@ -81,6 +81,8 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="CommandObject"/>
+			<item value="ViewResolver"/>
 			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
@@ -92,6 +94,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="CommandObject"/>
+			<item value="ViewResolver"/>
 			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
