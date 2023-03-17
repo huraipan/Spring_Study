@@ -81,6 +81,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="RedirectFoward"/>
 			<item value="FormElement2"/>
 			<item value="FormElement1"/>
 			<item value="FormCustomTag"/>
@@ -97,6 +98,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="RedirectFoward"/>
 			<item value="FormElement2"/>
 			<item value="FormElement1"/>
 			<item value="FormCustomTag"/>
