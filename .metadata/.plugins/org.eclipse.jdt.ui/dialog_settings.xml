@@ -62,4 +62,6 @@
 			<item key="DIALOG_FONT_NAME" value="1|Yu Gothic UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Yu Gothic UI"/>
 		</section>
 	</section>
+	<section name="BreadcrumbItemDropDown">
+	</section>
 </section>
