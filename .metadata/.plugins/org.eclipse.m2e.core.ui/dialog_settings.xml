@@ -81,6 +81,8 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="RequestScopeBeanXml"/>
+			<item value="RequestScopeBeanJava"/>
 			<item value="RequestScope"/>
 			<item value="RedirectFoward"/>
 			<item value="FormElement2"/>
@@ -94,11 +96,12 @@
 			<item value="URLMapping"/>
 			<item value="SpringMVCJava"/>
 			<item value="SpringMVCXml"/>
-			<item value="SpringMVCStep1"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="RequestScopeBeanXml"/>
+			<item value="RequestScopeBeanJava"/>
 			<item value="RequestScope"/>
 			<item value="RedirectFoward"/>
 			<item value="FormElement2"/>
@@ -112,7 +115,6 @@
 			<item value="URLMapping"/>
 			<item value="SpringMVCJava"/>
 			<item value="SpringMVCXml"/>
-			<item value="SpringMVCStep1"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>

@@ -6748,3 +6748,304 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact oracle:ojdbc6
 2023-03-20 14:12:31,567 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScope\src\main\resources
 2023-03-20 14:12:31,569 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-03-20 14:12:31,570 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScope\src\test\resources
+2023-03-20 14:16:48,536 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-20 14:18:12,019 [Worker-8: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RequestScopeBeanJava:RequestScopeBeanJava:0.0.1-SNAPSHOT @ C:\javae_workspace\RequestScopeBeanJava\pom.xml.
+2023-03-20 14:18:16,517 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:16,519 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:18:16,525 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:16,526 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:18:17,187 [Worker-8: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestScopeBeanJava/src/main/java
+2023-03-20 14:18:17,188 [Worker-8: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestScopeBeanJava/src/test/java
+2023-03-20 14:18:18,239 [Worker-8: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-20 14:18:19,183 [Worker-8: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RequestScopeBeanJava:RequestScopeBeanJava:0.0.1-SNAPSHOT @ C:\javae_workspace\RequestScopeBeanJava\pom.xml.
+2023-03-20 14:18:20,529 [Worker-8: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestScopeBeanJava/src/main/java
+2023-03-20 14:18:20,530 [Worker-8: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestScopeBeanJava/src/test/java
+2023-03-20 14:18:21,839 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RequestScopeBeanJava:RequestScopeBeanJava:0.0.1-SNAPSHOT @ C:\javae_workspace\RequestScopeBeanJava\pom.xml.
+2023-03-20 14:18:23,079 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:23,080 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:18:23,085 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:23,087 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:18:23,088 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RequestScopeBeanJava
+2023-03-20 14:18:23,089 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RequestScopeBeanJava
+2023-03-20 14:18:23,127 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:23,688 [Worker-8: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RequestScopeBeanJava
+2023-03-20 14:18:23,730 [Worker-8: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 3.00 sec 
+2023-03-20 14:18:24,342 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:24,343 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:18:24,346 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:24,355 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:18:24,355 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RequestScopeBeanJava
+2023-03-20 14:18:24,355 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RequestScopeBeanJava
+2023-03-20 14:18:24,359 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:28,064 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:28,066 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:18:28,070 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:28,072 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:18:38,708 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:38,710 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:18:38,714 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:38,715 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:18:49,329 [Worker-2: Building Project RequestScopeBeanJava] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:49,334 [Worker-2: Building Project RequestScopeBeanJava] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:18:49,337 [Worker-2: Building Project RequestScopeBeanJava] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:18:49,363 [Worker-2: Building Project RequestScopeBeanJava] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:19:37,435 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RequestScopeBeanXml:RequestScopeBeanXml:0.0.1-SNAPSHOT @ C:\javae_workspace\RequestScopeBeanXml\pom.xml.
+2023-03-20 14:19:38,387 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestScopeBeanXml/src/main/java
+2023-03-20 14:19:38,389 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestScopeBeanXml/src/test/java
+2023-03-20 14:19:39,361 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-20 14:19:39,467 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RequestScopeBeanXml:RequestScopeBeanXml:0.0.1-SNAPSHOT @ C:\javae_workspace\RequestScopeBeanXml\pom.xml.
+2023-03-20 14:19:40,170 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestScopeBeanXml/src/main/java
+2023-03-20 14:19:40,173 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RequestScopeBeanXml/src/test/java
+2023-03-20 14:19:40,358 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RequestScopeBeanXml
+2023-03-20 14:19:40,374 [Worker-10: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-20 14:19:40,497 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:19:40,499 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:19:40,502 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:19:40,503 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:19:40,505 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RequestScopeBeanXml
+2023-03-20 14:19:40,505 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RequestScopeBeanXml
+2023-03-20 14:19:40,510 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:19:44,797 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: RequestScopeBeanXml:RequestScopeBeanXml:0.0.1-SNAPSHOT @ C:\javae_workspace\RequestScopeBeanXml\pom.xml.
+2023-03-20 14:19:44,920 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:19:44,921 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:19:44,926 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:19:44,927 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:19:44,928 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RequestScopeBeanXml
+2023-03-20 14:19:44,928 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RequestScopeBeanXml
+2023-03-20 14:19:44,934 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:20:05,460 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:20:05,470 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:20:05,474 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:20:05,475 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:20:14,228 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:20:14,230 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:20:14,235 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:20:14,236 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:20:25,623 [Worker-0: Building Project RequestScopeBeanXml] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:20:25,624 [Worker-0: Building Project RequestScopeBeanXml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:20:25,629 [Worker-0: Building Project RequestScopeBeanXml] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:20:25,630 [Worker-0: Building Project RequestScopeBeanXml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:21:36,613 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:21:36,615 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:21:36,619 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:21:36,620 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:21:44,768 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:21:44,769 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:21:44,771 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:21:44,772 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:22:07,310 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:22:07,311 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:22:07,314 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:22:07,316 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:22:37,751 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:22:37,753 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:22:37,756 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:22:37,758 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:22:47,253 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:22:47,254 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:22:47,258 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:22:47,259 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:24:12,713 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:24:12,715 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:24:12,718 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:24:12,719 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:25:52,926 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:25:52,928 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:25:52,930 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:25:52,931 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:26:05,150 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:26:05,152 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:26:05,154 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:26:05,155 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:28:03,669 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:28:03,671 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:28:03,673 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:28:03,674 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:28:13,106 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:28:13,107 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:28:13,109 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:28:13,110 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:28:22,108 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:28:22,110 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:28:22,116 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:28:22,118 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:30:03,562 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:30:03,564 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:30:03,566 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:30:03,567 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:32:55,571 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:32:55,573 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:32:55,576 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:32:55,577 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:45:57,271 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:45:57,272 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:45:57,275 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:45:57,275 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:46:09,410 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:46:09,413 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:46:09,416 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:46:09,417 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:46:59,618 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:46:59,620 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:46:59,623 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:46:59,624 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:47:04,303 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:47:04,304 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:47:04,306 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:47:04,307 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:47:53,822 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:47:53,825 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:47:53,827 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:47:53,829 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:49:08,315 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:49:08,316 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:49:08,318 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:49:08,319 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:49:57,191 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:49:57,192 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:49:57,195 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:49:57,197 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:50:10,730 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:50:10,731 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:50:10,734 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:50:10,736 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:50:19,885 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:50:19,886 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:50:19,889 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:50:19,889 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:51:01,609 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:51:01,611 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:51:01,612 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:51:01,613 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:51:43,110 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:51:43,111 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:51:43,113 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:51:43,115 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:51:45,199 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:51:45,200 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:51:45,201 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:51:45,202 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:52:05,455 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:52:05,457 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:52:05,458 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:52:05,459 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:52:27,861 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:52:27,862 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:52:27,864 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:52:27,865 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:52:45,052 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:52:45,054 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:52:45,057 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:52:45,059 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:53:05,360 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:53:05,361 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:53:05,365 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:53:05,367 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:54:51,349 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:54:51,350 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:54:51,354 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:54:51,354 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:55:34,310 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:55:34,311 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:55:34,312 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:55:34,313 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:55:38,491 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:55:38,493 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:55:38,494 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:55:38,496 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:56:34,141 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:56:34,141 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:56:34,143 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:56:34,146 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:56:49,870 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:56:49,871 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:56:49,874 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:56:49,875 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:57:07,790 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:57:07,790 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:57:07,793 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:57:07,795 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:57:23,165 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:57:23,166 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:57:23,168 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:57:23,169 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:57:44,299 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:57:44,302 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:57:44,304 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:57:44,304 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:58:00,673 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:58:00,674 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:58:00,676 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:58:00,677 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:58:05,188 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:58:05,189 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 14:58:05,191 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:58:05,192 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 14:59:04,189 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:59:04,190 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:59:04,192 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:59:04,194 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:59:33,403 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:59:33,404 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:59:33,407 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:59:33,408 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:59:46,318 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:59:46,320 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:59:46,323 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:59:46,324 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 14:59:52,348 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:59:52,350 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 14:59:52,351 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 14:59:52,353 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 15:00:49,288 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:00:49,289 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 15:00:49,291 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:00:49,293 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 15:04:08,059 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:04:08,061 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 15:04:08,063 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:04:08,064 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 15:06:12,669 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:06:12,669 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 15:06:12,672 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:06:12,674 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 15:07:38,025 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:07:38,027 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 15:07:38,029 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:07:38,030 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 15:07:50,252 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:07:50,253 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 15:07:50,255 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:07:50,256 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 15:08:33,446 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:08:33,447 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\main\resources
+2023-03-20 15:08:33,451 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:08:33,453 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanJava\src\test\resources
+2023-03-20 15:09:17,890 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:09:17,891 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 15:09:17,893 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:09:17,894 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 15:09:42,016 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:09:42,018 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 15:09:42,019 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:09:42,021 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 15:10:23,508 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:10:23,509 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 15:10:23,511 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:10:23,512 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 15:10:30,983 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:10:30,985 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 15:10:30,988 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:10:30,989 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 15:10:41,134 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:10:41,135 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 15:10:41,137 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:10:41,139 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 15:10:58,456 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:10:58,459 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 15:10:58,462 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:10:58,464 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
+2023-03-20 15:11:14,096 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:11:14,099 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\main\resources
+2023-03-20 15:11:14,102 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-20 15:11:14,104 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javae_workspace\RequestScopeBeanXml\src\test\resources
