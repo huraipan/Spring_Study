@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="kr.co.softcampus.beans2.TestBean3"/>
-    <fullyQualifiedTypeName name="kr.co.softcampus.beans2.TestBean4"/>
     <fullyQualifiedTypeName name="kr.co.softcampus.beans3.TestBean5"/>
     <fullyQualifiedTypeName name="kr.co.softcampus.beans.TestBean4"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Lazy"/>
@@ -60,4 +58,6 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
 </qualifiedTypeNameHistroy>
