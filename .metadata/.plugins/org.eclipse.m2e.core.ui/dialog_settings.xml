@@ -81,6 +81,8 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="MessageXml"/>
+			<item value="MessageJava"/>
 			<item value="Properties"/>
 			<item value="Cookie"/>
 			<item value="ApplicationScopeBeanXml"/>
@@ -94,12 +96,12 @@
 			<item value="RequestScope"/>
 			<item value="RedirectFoward"/>
 			<item value="FormElement2"/>
-			<item value="FormElement1"/>
-			<item value="FormCustomTag"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MessageXml"/>
+			<item value="MessageJava"/>
 			<item value="Properties"/>
 			<item value="Cookie"/>
 			<item value="ApplicationScopeBeanXml"/>
@@ -113,8 +115,6 @@
 			<item value="RequestScope"/>
 			<item value="RedirectFoward"/>
 			<item value="FormElement2"/>
-			<item value="FormElement1"/>
-			<item value="FormCustomTag"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
