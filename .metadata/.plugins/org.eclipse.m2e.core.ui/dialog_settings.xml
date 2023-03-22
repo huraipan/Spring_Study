@@ -81,6 +81,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Properties"/>
 			<item value="Cookie"/>
 			<item value="ApplicationScopeBeanXml"/>
 			<item value="ApplicationScopeBeanJava"/>
@@ -95,11 +96,11 @@
 			<item value="FormElement2"/>
 			<item value="FormElement1"/>
 			<item value="FormCustomTag"/>
-			<item value="CommandObject"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Properties"/>
 			<item value="Cookie"/>
 			<item value="ApplicationScopeBeanXml"/>
 			<item value="ApplicationScopeBeanJava"/>
@@ -114,7 +115,6 @@
 			<item value="FormElement2"/>
 			<item value="FormElement1"/>
 			<item value="FormCustomTag"/>
-			<item value="CommandObject"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
