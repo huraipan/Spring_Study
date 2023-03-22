@@ -81,6 +81,10 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="JSR-380"/>
+			<item value="JSR-303"/>
+			<item value="ValidationMessage"/>
+			<item value="Validate"/>
 			<item value="MessageXml"/>
 			<item value="MessageJava"/>
 			<item value="Properties"/>
@@ -92,14 +96,14 @@
 			<item value="SessionScopeBeanJava"/>
 			<item value="SessionScope"/>
 			<item value="RequestScopeBeanXml"/>
-			<item value="RequestScopeBeanJava"/>
-			<item value="RequestScope"/>
-			<item value="RedirectFoward"/>
-			<item value="FormElement2"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="JSR-380"/>
+			<item value="JSR-303"/>
+			<item value="ValidationMessage"/>
+			<item value="Validate"/>
 			<item value="MessageXml"/>
 			<item value="MessageJava"/>
 			<item value="Properties"/>
@@ -111,10 +115,6 @@
 			<item value="SessionScopeBeanJava"/>
 			<item value="SessionScope"/>
 			<item value="RequestScopeBeanXml"/>
-			<item value="RequestScopeBeanJava"/>
-			<item value="RequestScope"/>
-			<item value="RedirectFoward"/>
-			<item value="FormElement2"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
