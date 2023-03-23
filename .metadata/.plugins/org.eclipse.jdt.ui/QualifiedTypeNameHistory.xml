@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.mybatis.spring.mapper.MapperFactoryBean"/>
-    <fullyQualifiedTypeName name="kr.co.softcampus.mapper.MapperInterface"/>
-    <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Results"/>
     <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Result"/>
     <fullyQualifiedTypeName name="kr.co.softcampus.beans.JdbcBean"/>
     <fullyQualifiedTypeName name="jakarta.servlet.RequestDispatcher"/>
@@ -55,9 +52,12 @@
     <fullyQualifiedTypeName name="javax.validation.constraints.NegativeOrZero"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ReloadableResourceBundleMessageSource"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.validation.Validator"/>
     <fullyQualifiedTypeName name="kr.co.softcampus.beans.DataBean1"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.WebDataBinder"/>
     <fullyQualifiedTypeName name="org.springframework.validation.ValidationUtils"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.InterceptorRegistration"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.handler.HandlerInterceptorAdapter"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.HandlerInterceptor"/>
 </qualifiedTypeNameHistroy>
