@@ -81,6 +81,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="RestfulAPI"/>
 			<item value="MyBatisXML"/>
 			<item value="MyBatisJava"/>
 			<item value="HandleException"/>
@@ -95,11 +96,11 @@
 			<item value="MessageJava"/>
 			<item value="Properties"/>
 			<item value="Cookie"/>
-			<item value="ApplicationScopeBeanXml"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="RestfulAPI"/>
 			<item value="MyBatisXML"/>
 			<item value="MyBatisJava"/>
 			<item value="HandleException"/>
@@ -114,7 +115,6 @@
 			<item value="MessageJava"/>
 			<item value="Properties"/>
 			<item value="Cookie"/>
-			<item value="ApplicationScopeBeanXml"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
