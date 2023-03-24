@@ -81,6 +81,9 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="MyBatisXML"/>
+			<item value="MyBatisJava"/>
+			<item value="HandleException"/>
 			<item value="IntercepterXml"/>
 			<item value="InterceptorJava"/>
 			<item value="CustomValidator"/>
@@ -93,13 +96,13 @@
 			<item value="Properties"/>
 			<item value="Cookie"/>
 			<item value="ApplicationScopeBeanXml"/>
-			<item value="ApplicationScopeBeanJava"/>
-			<item value="ApplicationScope"/>
-			<item value="SessionScopeBeanXml"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MyBatisXML"/>
+			<item value="MyBatisJava"/>
+			<item value="HandleException"/>
 			<item value="IntercepterXml"/>
 			<item value="InterceptorJava"/>
 			<item value="CustomValidator"/>
@@ -112,9 +115,6 @@
 			<item value="Properties"/>
 			<item value="Cookie"/>
 			<item value="ApplicationScopeBeanXml"/>
-			<item value="ApplicationScopeBeanJava"/>
-			<item value="ApplicationScope"/>
-			<item value="SessionScopeBeanXml"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
